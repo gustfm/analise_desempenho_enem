@@ -4,7 +4,7 @@
 
 Com base nas médias dos alunos na parte objetiva do Enem 2018 foram criados uma tabela e um gráfico para analisar o desempenho dos alunos por renda familiar mensal.
 
-Foi feita uma verificação com base nas 100 maiores médias na parte objetiva do Enem 2018 separando quem tem acesso a Internet e quem não tem a fim de checar se este fato pode ter alguma influência na nota final.
+Foi feita uma checagem entre todas as médias do Enem 2018 separando quem tem acesso a Internet e quem não tem a fim de mensurar qual influência este fato tem na nota final.
 
 ## Como usar
   1. Fazer o clone do repositório
